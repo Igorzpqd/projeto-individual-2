@@ -1,0 +1,19 @@
+.texto_introdutorio {
+      height: 500px;
+      padding-top: 80px;
+      text-align: center;
+     
+}
+.rodape_autor {
+  text-align: center;
+  padding-top: 500px;
+}
+label, textarea {
+  display:-moz-stack;
+}
+textarea {
+ 
+  width: 200px;
+  height: 80px;
+ 
+}
